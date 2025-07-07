@@ -2,4 +2,7 @@
 layout: default
 title: Home
 ---
-# This is my website?
+### Website
+I am Marco Platino
+- Generally just a chill guy
+- like stuff
