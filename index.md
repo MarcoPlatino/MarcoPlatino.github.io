@@ -15,3 +15,4 @@ I am working currently on learning kotlin and android development.
 
 ### Things that will be added in the future:
 I am planning to add a section of this site to show off all of the various projects that I have completed and posted on Github.
+[This is the place to access that list](Projects.md)
