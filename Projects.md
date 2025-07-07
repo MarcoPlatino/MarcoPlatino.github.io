@@ -1,2 +1,2 @@
-# This is a list of a few of my projects:
+#Projects
 *List will be here*
