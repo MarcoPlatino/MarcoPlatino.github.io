@@ -1,7 +1,6 @@
-name: MarcoPlatino
-theme: minima
-remote_theme: jekyll/minima  # Use the remote theme from the GitHub repository
+title: MarcoPlatino
+remote_theme: jekyll/minima
 plugins:
-  - jekyll-remote-theme # Activate the remote theme plugin
+  - jekyll-remote-theme
 minima:
   skin: solarized-dark
