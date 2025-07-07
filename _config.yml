@@ -1,6 +1,8 @@
 title: MarcoPlatino
-remote_theme: jekyll/minima
+description: Personal site
+remote_theme: jekyll/minima@latest
 plugins:
   - jekyll-remote-theme
+
 minima:
   skin: solarized-dark
