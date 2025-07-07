@@ -1,2 +1,3 @@
 name: MarcoPlatino
-theme: jekyll-theme-minima-solarized-dark
+theme: jekyll-theme-minima
+minima: solarized-dark
