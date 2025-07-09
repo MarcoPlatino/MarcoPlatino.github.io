@@ -1,3 +1,10 @@
-title: Marco Platino
-description: My personal website. I will probably put something more interesting here in the future...
-theme: minima
+title: "Marco Platino"
+description: "Various Contact Links"
+
+contact:
+  phone: "(+1) 443-365-9108"
+  github: "https://github.com/MarcoPlatino"
+  email: "mistermarcop@hotmail.com"
+  alternate_email: "mnplatino@gmail.com"
+
+theme: architect
