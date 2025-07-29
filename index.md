@@ -5,10 +5,6 @@ title: Home
 # Welcome to my site!
 My name is Marco Platino, and I am a student looking to build all sorts of interesting software and learn new concepts.
 
-**Contact:**  
-- Email: [mnplatino@gmail.com](sendto:mnplatino@gmail.com)  
-- GitHub: [MarcoPlatino](https://github.com/MarcoPlatino)
-- 
 My technical skills include:
 - Python
 - Arduino
