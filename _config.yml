@@ -1,10 +1,12 @@
 title: "Marco Platino"
 description: "Various Contact Links"
 
-contact:
-  phone: "(+1) 443-365-9108"
-  github: "https://github.com/MarcoPlatino"
-  email: "mistermarcop@hotmail.com"
-  alternate_email: "mnplatino@gmail.com"
+# contact:
+#   phone: "(+1) 443-365-9108"
+#   github: "https://github.com/MarcoPlatino"
+#   email: "mistermarcop@hotmail.com"
+#   alternate_email: "mnplatino@gmail.com"
+
+email: "mistermarcop@hotmail.com"
 
 theme: jekyll-theme-hacker
