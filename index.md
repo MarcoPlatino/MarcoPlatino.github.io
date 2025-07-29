@@ -9,10 +9,10 @@ My technical skills include:
 - Python
 - Arduino
 - Onshape (CAD)
-- Raspberry Pi
+- Linux
 - Java
-I am working currently on learning kotlin and android development.
 
-### Things that will be added in the future:
-I am planning to add a section of this site to show off all of the various projects that I have completed and posted on Github.
-[This is the place to access that list](Projects.md)
+This site is meant to serve as an introduction to what I like to do, but also a collection of some of the projects that I am working on
+
+### Links to projects
+- 
